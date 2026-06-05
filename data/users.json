@@ -1,0 +1,21 @@
+[
+  {
+    "uid": "github-admin-1",
+    "name": "Admin User",
+    "email": "admin@college.edu",
+    "role": "admin",
+    "department": "ALL",
+    "status": "active",
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "uid": "github-student-1",
+    "name": "Rahul Kumar",
+    "email": "student@college.edu",
+    "role": "student",
+    "department": "CSE",
+    "year": "3",
+    "status": "active",
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  }
+]
