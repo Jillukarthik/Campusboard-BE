@@ -10,12 +10,12 @@
   },
   {
     "uid": "github-student-1",
-    "name": "Karthik S",
+    "name": "Rahul Kumar",
     "email": "student@college.edu",
     "role": "student",
     "department": "CSE",
     "year": "3",
-    "status": "active",
+    "status": "disabled",
     "createdAt": "2026-06-05T00:00:00.000Z"
   }
 ]
