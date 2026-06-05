@@ -8,15 +8,5 @@
     "eventDate": "2026-06-19T00:00:00.000Z",
     "createdBy": "github-admin-1",
     "createdAt": "2026-06-05T00:00:00.000Z"
-  },
-  {
-    "id": "event-2",
-    "title": "CSE Coding Contest",
-    "description": "Inter-department competitive programming event.",
-    "department": "CSE",
-    "venue": "Computer Lab 2",
-    "eventDate": "2026-06-12T00:00:00.000Z",
-    "createdBy": "github-admin-1",
-    "createdAt": "2026-06-05T00:00:00.000Z"
   }
 ]
