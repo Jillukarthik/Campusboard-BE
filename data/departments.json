@@ -1,10 +1,47 @@
 [
-  { "id": "dept-0", "name": "CSE", "createdAt": "2026-06-05T00:00:00.000Z" },
-  { "id": "dept-1", "name": "IT", "createdAt": "2026-06-05T00:00:00.000Z" },
-  { "id": "dept-2", "name": "ECE", "createdAt": "2026-06-05T00:00:00.000Z" },
-  { "id": "dept-3", "name": "EEE", "createdAt": "2026-06-05T00:00:00.000Z" },
-  { "id": "dept-4", "name": "MECH", "createdAt": "2026-06-05T00:00:00.000Z" },
-  { "id": "dept-5", "name": "CIVIL", "createdAt": "2026-06-05T00:00:00.000Z" },
-  { "id": "dept-6", "name": "MBA", "createdAt": "2026-06-05T00:00:00.000Z" },
-  { "id": "dept-7", "name": "MCA", "createdAt": "2026-06-05T00:00:00.000Z" }
+  {
+    "id": "dept-0",
+    "name": "CSE",
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "dept-1",
+    "name": "IT",
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "dept-2",
+    "name": "ECE",
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "dept-3",
+    "name": "EEE",
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "dept-4",
+    "name": "MECH",
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "dept-5",
+    "name": "CIVIL",
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "dept-6",
+    "name": "MBA",
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "dept-7",
+    "name": "MCA",
+    "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "name": "Data Science",
+    "createdAt": "2026-06-05T05:55:39.135Z",
+    "id": "1780638939157_chusep8"
+  }
 ]
