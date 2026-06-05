@@ -4,5 +4,11 @@
     "noticeId": "notice-1",
     "createdAt": "2026-06-05T06:20:52.892Z",
     "id": "1780640452901_dluo4cm"
+  },
+  {
+    "userId": "github-student-1",
+    "noticeId": "notice-2",
+    "createdAt": "2026-06-05T06:20:56.366Z",
+    "id": "1780640456373_e6iuy7a"
   }
 ]
