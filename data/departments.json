@@ -1,10 +1,5 @@
 [
   {
-    "id": "dept-3",
-    "name": "EEE",
-    "createdAt": "2026-06-05T00:00:00.000Z"
-  },
-  {
     "id": "dept-4",
     "name": "MECH",
     "createdAt": "2026-06-05T00:00:00.000Z"
