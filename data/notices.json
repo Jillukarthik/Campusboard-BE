@@ -17,5 +17,15 @@
     "expiryDate": "2026-07-05T00:00:00.000Z",
     "createdBy": "github-admin-1",
     "createdAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "title": "Campus interview Program",
+    "description": "Campus interview Program 2026",
+    "department": "ALL",
+    "isPinned": true,
+    "expiryDate": "2026-06-15T00:00:00.000Z",
+    "createdBy": "github-admin-1",
+    "createdAt": "2026-06-12T05:47:43.768Z",
+    "id": "1781243263778_xwpvn30"
   }
 ]
