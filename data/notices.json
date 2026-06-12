@@ -4,7 +4,7 @@
     "title": "Welcome to CampusBoard",
     "description": "This portal uses GitHub-hosted JSON as its backend. Data is stored in the Campusboard-BE repository.",
     "department": "ALL",
-    "isPinned": true,
+    "isPinned": false,
     "createdBy": "github-admin-1",
     "createdAt": "2026-06-05T00:00:00.000Z"
   },
