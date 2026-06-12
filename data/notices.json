@@ -9,16 +9,6 @@
     "createdAt": "2026-06-05T00:00:00.000Z"
   },
   {
-    "id": "notice-2",
-    "title": "CSE Lab Schedule",
-    "description": "Lab sessions for Semester 3 start Monday 10 AM in Block A.",
-    "department": "CSE",
-    "isPinned": false,
-    "expiryDate": "2026-07-05T00:00:00.000Z",
-    "createdBy": "github-admin-1",
-    "createdAt": "2026-06-05T00:00:00.000Z"
-  },
-  {
     "title": "Campus interview Program",
     "description": "Campus interview Program 2026",
     "department": "ALL",
