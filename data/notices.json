@@ -27,5 +27,15 @@
     "createdBy": "github-admin-1",
     "createdAt": "2026-06-25T12:15:40.359Z",
     "id": "1782389740374_eu7dofc"
+  },
+  {
+    "title": " Cultural Event Notice",
+    "description": " Cultural Event Notice",
+    "department": "ALL",
+    "isPinned": true,
+    "expiryDate": "2026-07-23T00:00:00.000Z",
+    "createdBy": "github-admin-1",
+    "createdAt": "2026-07-11T03:19:31.088Z",
+    "id": "1783739972037_7duh0z6"
   }
 ]
